@@ -1,0 +1,5 @@
+{
+  "name": "AutoDrive Core Platform",
+  "description": "An intelligent driving basic software coding platform featuring a visual workflow builder, evaluation gates, and deployment management.",
+  "requestFramePermissions": []
+}

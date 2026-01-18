@@ -177,7 +177,7 @@ Your output must be a JSON object containing the trajectory plan and control sig
                    <span className="text-xs text-slate-400">Auto-Revert on Fail</span>
                  </label>
                  <div className="text-[10px] text-slate-500">
-                   Triggers if safety violation rate > 0.5% in Evaluation Gate.
+                   Triggers if safety violation rate &gt; 0.5% in Evaluation Gate.
                  </div>
                </div>
              </div>
